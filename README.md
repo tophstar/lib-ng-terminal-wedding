@@ -1,4 +1,4 @@
-lib-ng-terminal
+lib-ng-terminal for wedding RSVP
 
 ====================
 
@@ -41,4 +41,4 @@ To add new commands you must build your own version of the terminal. (In the fut
 ### Dependencies
 
 jQuery\n
-terminal-harness
+terminal-harness (found in utility directory)
